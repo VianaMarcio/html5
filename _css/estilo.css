@@ -116,3 +116,32 @@ nav#menu a:hover{
     color: white;
     text-decoration: underline;
 }
+
+section#corpo{
+    display: block;
+    width: 615px;
+    float: left;
+    border-right: 2px solid #606060;
+    padding: 15px;
+}
+
+aside#lateral{
+    display: block;
+    width: 415px;
+    float: right;
+    padding: 15px;
+}
+
+footer#rodape{
+    clear: both;
+    border-top: 2px solid #606060;
+    
+}
+footer#rodape p{
+    text-align: center;
+}
+
+footer#rodape a{
+    text-decoration: none;
+    text-transform: capitalize;
+}
